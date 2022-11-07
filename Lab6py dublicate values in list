@@ -1,0 +1,9 @@
+# Find dublicate values in given list
+
+def duplicate(inputlist):
+	return list(set([x for x in inputlist if inputlist.count(x) > 1]))
+
+# Given list 
+list=[3,4,5,2,3,4,1,6,7,8,9,3,1,2,5]
+
+print(duplicate(list))
