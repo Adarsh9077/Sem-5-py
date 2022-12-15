@@ -1,5 +1,5 @@
 # Lab 04 :
-# Write a program to repesent graph using Adjaceny Matrix
+# Write a program to represent graph using Adjacency Matrix
 # Adjancy Matix representing in python  
 
 class Graph :
